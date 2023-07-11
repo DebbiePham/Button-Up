@@ -2,12 +2,11 @@
     width: 150px;
     height: 30px;
     background-color: white;
-    color: aqua;
-    text-align: center;
-    border-color: aqua;
+    color: #7dc8c8;
+    border: 2px solid #7dc8c8;
     border-radius: 12px;
     margin: 40px;
-
+    font-weight: 900;
 }
 
 #add {
@@ -16,9 +15,10 @@
     background-color: aquamarine;
     color: white;
     border-radius: 50%;
-    border-color: aquamarine;
+    border: none;
     margin-left: 40px;
     margin-top: 0px;
+    font-weight: 900;
 }
 
 #create_account {
@@ -26,8 +26,8 @@
     height: 40px;
     background-color:dodgerblue;
     color: white;
-    border-color: black;
+    border: 2px solid black;
     margin-left: 40px;
     margin-top: 40px;
-    box-shadow: 10px 5px 5px black;
+    box-shadow: 4px 4px black;
 }
