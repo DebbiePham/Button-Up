@@ -1,0 +1,33 @@
+#search {
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    color: aqua;
+    text-align: center;
+    border-color: aqua;
+    border-radius: 12px;
+    margin: 40px;
+
+}
+
+#add {
+    width: 30px;
+    height: 30px;
+    background-color: aquamarine;
+    color: white;
+    border-radius: 50%;
+    border-color: aquamarine;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+
+#create_account {
+    width: 200px;
+    height: 40px;
+    background-color:dodgerblue;
+    color: white;
+    border-color: black;
+    margin-left: 40px;
+    margin-top: 40px;
+    box-shadow: 10px 5px 5px black;
+}
